@@ -7,7 +7,7 @@ Blue Team | CTF Player | TryHackMe Top 6 % | BugCrowd | Cybersecurity Enthusiast
 I'm a **dedicated cybersecurity student** currently ranked in the top **6% on TryHackMe** and actively contributing to **BugCrowd**. I'm passionate about defending, detecting, and learning about modern-day cyber threats. I aim to empower ethical hacking as a force for good.
 
 
-- 🔭 I’m currently working on *Digital Forensics team Tool.**
+🔭 I’m currently working on **Digital Forensics Tool**
 <br>
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
