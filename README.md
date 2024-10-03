@@ -29,9 +29,14 @@ I'm a **dedicated cybersecurity student** currently ranked in the top **6% on Tr
 
 ## Connect With Me
 
+Connect With Me
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CyberSecurityUP)](https://github.com/karthicysec)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joas-antonio-dos-santos)](https://www.linkedin.com/in/karthikeyancysec)
+
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@karthi72347)](https://medium.com/@karthi72347)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
