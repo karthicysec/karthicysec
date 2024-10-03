@@ -22,6 +22,11 @@ I'm a **dedicated cybersecurity student** currently ranked in the top **6% on Tr
 
 :books: I'm currently learning all about Networking and Blue team.
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthicysec&show_icons=true&theme=tokyonight&hide=issues,prs&count_private=true" alt="karthicysec" />
+</p>
+
 ## Connect With Me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CyberSecurityUP)](https://github.com/karthicysec)
@@ -38,8 +43,11 @@ I'm a **dedicated cybersecurity student** currently ranked in the top **6% on Tr
   </a>
 </p>
 
+<h3 align="center">Most Used Languages:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthicysec&layout=compact&theme=tokyonight&hide=other,hack,php,css,javascript" alt="karthicysec" />
+</p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthicysec&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="karthicysec" /></p
 
 
