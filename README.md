@@ -40,4 +40,6 @@ I'm a **dedicated cybersecurity student** currently ranked in the top **6% on Tr
 
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthicysec&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="karthicysec" /></p
+
 
