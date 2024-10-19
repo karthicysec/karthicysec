@@ -2,7 +2,7 @@
 
 ### I'm Karthikeyan 
 
-Blue Team | CTF Player | TryHackMe Top 6 % | BugCrowd | Cybersecurity Enthusiast | Hacking is NOT a Crime Advocate  
+Blue Team | CTF Player | TryHackMe Top 6 % | BugCrowd | Cybersecurity Enthusiast | CAP | C3SA |  Hacking is NOT a Crime Advocate  
 
 I'm a **dedicated cybersecurity student** currently ranked in the top **6% on TryHackMe** and actively contributing to **BugCrowd**. I'm passionate about defending, detecting, and learning about modern-day cyber threats. I aim to empower ethical hacking as a force for good.
 
