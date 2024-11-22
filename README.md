@@ -16,7 +16,7 @@ I'm a **dedicated cybersecurity student** currently ranked in the top **6% on Tr
 
 
 
-:computer: I'm  Blue Team Leader.
+:computer: Upcoming  Purple Team Leader.
 
 :house_with_garden: I’m from India.
 
