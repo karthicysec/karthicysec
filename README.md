@@ -1,15 +1,17 @@
 ## 👋 Hi, I'm Karthikeyan R
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300"/>
+</p>
 ### 🛡️ SOC Analyst | Cybersecurity Enthusiast | Blue Team Defender  
 🎯 TryHackMe Top 4% | Bugcrowd Researcher | CTF Player | Intern @ Satcom Infotech Pvt Ltd  
 
----
+
 
 🧠 **Cybersecurity isn’t just my career—it’s my calling.**
 
 I'm a **recent M.Sc. Cybersecurity graduate** from **Bharathiar University**, passionate about threat detection, Blue Teaming, and proactive defense. I specialize in **Incident Response**, **SOC Monitoring**, and **Data Loss Prevention (DLP)**, and I thrive on solving real-world security challenges through CTFs, research, and hands-on projects.
 
----
+
 
 ### 🚀 Highlights & Achievements  
 - 🧠 **Top 4% Global Rank** on [TryHackMe](https://tryhackme.com/p/karthicysec)  
@@ -20,7 +22,6 @@ I'm a **recent M.Sc. Cybersecurity graduate** from **Bharathiar University**, pa
 - 🛠️ **Technical Intern @ Satcom Infotech**  
   - Worked on **EDR/XDR (Sophos)**, **Netwrix**, **Firewall Rule Audits**, **Alert Triage**, and more.
 
----
 
 ### 🏴‍☠️ CTF Journey – Team Lead @ H4x0r_Hunters  
 Competing globally, solving complex challenges, and leveling up skills with my team.
@@ -36,7 +37,7 @@ Competing globally, solving complex challenges, and leveling up skills with my t
 ➡️ Global Rank: **802nd**  
 🇮🇳 India Rank: **40th**
 
----
+
 
 ### 🧪 Projects & Research Tools  
 - **🔍 CVE-Insight** – Flask-based CVE scanner w/ NVD integration & dashboard  
@@ -44,7 +45,7 @@ Competing globally, solving complex challenges, and leveling up skills with my t
 - **📡 Dork_Hunter** – Google Dork recon + DNS tool for Bug Bounty  
 - Tools I Use: `Wireshark`, `Nmap`, `Burp Suite`, `Bulk Extractor`, `Wazuh`, `Netwrix`
 
----
+
 
 ### 💼 Career Interests
 Actively seeking roles in:  
@@ -59,6 +60,4 @@ Actively seeking roles in:
 
 > 📬 DM me if you're hiring, building a security team, or passionate about cybersecurity collaboration!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300"/>
-</p>
+
