@@ -1,8 +1,7 @@
-## 👋 Hi, I'm Karthikeyan R
+👋 Hi, I'm Karthikeyan R
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300"/>
-</p>
-### 🛡️ SOC Analyst | Cybersecurity Enthusiast | Blue Team Defender  
+</p> 🛡️ SOC Analyst | Cybersecurity Enthusiast | Blue Team Defender  
 🎯 TryHackMe Top 4% | Bugcrowd Researcher | CTF Player | Intern @ Satcom Infotech Pvt Ltd  
 
 
@@ -55,7 +54,7 @@ Actively seeking roles in:
 
 ### 🤝 Let's Connect!
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karthicysec)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyancysec)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/karthicysec))  
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@karthicysec)
 
 > 📬 DM me if you're hiring, building a security team, or passionate about cybersecurity collaboration!
