@@ -1,4 +1,6 @@
-## 👋 Hi there, I'm Karthikeyan R
+## 👋 Hi there, I'm Karthikeyan R  <p align="center">
+  <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300"/>
+</p>
 
 ### 🛡️ Aspiring SOC Analyst | Blue Team Defender | CTF Player | Bug Bounty Hunter  
 > Cybersecurity isn’t just my career—it’s my calling.
