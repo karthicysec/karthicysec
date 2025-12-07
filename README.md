@@ -125,8 +125,8 @@ Team Lead of **H4x0r_Hunters** – driving team strategy in IR, forensics & reco
 
 ## 📫 curl karthicysec.socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-r-0b3720381)  
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@0ff3nder_404)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/karthicysec)  
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@0ff3nder_404)  
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-533D6B?style=flat-square&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/0FF3NDER404)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/karthicysec)
 
 ---
